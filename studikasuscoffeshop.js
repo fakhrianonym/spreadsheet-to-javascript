@@ -167,7 +167,7 @@ for (var i = 0; i < dataLengkap.length; i++) {
 
 var rataRataTransaksi = jumlahHarga / dataLengkap.length;
 
-var daftarKategori = ["Coffe", "Non Coffe", "Food", "Snack"];
+var daftarKategori = ["Coffe", "Non - Coffe", "Food", "Snack"];
 var jumlahProdukTerjual = {};
 
 for (var k = 0; k < daftarKategori.length; k++) {
