@@ -168,7 +168,7 @@ JOIN pembeli p ON t.id_pembeli = p.id_pembeli;
 
 Query ini menggabungkan 6 tabel lewat relasi FK. Dari data contoh, hasilnya satu baris: TS001, 2026-05-01, ijium, Makan Di Tempat, Cappucino, Coffe, 4. Artinya data yang sudah dipecah bisa disatukan lagi.
 
-![Hasil JOIN](gambar/join.png.png)
+![Hasil JOIN](gambar/join.join.png)
 
 ---
 
